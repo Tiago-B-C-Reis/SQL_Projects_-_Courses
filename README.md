@@ -39,7 +39,7 @@ This project not only helped me to gain hands-on experience in SQL, but also pro
 
 
 
-## [UK Road Safty Accidents 2015 Project](https://github.com/Tiago-B-C-Reis/SQL_Projects_and_Courses/tree/main/Project_Road_Safety) # ONGOING...
+## [UK Road Safty Accidents 2022 Project](https://github.com/Tiago-B-C-Reis/SQL_Projects_and_Courses/tree/main/Project_Road_Safety) # ONGOING...
 MySQL and Python project aims to analyze UK road safety data related to accidents and severity levels. The project includes the following analysis:
 + Identifying the median severity value of accidents caused by various motorcycle types.
 + Analyzing accident severity and total accidents per vehicle type.
