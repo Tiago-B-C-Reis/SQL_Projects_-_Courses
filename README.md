@@ -1,5 +1,5 @@
 # SQL Projects + Projects
-Compilation of SQL, Tableau, PySpark data analysis related projects and challenges where I practice those skills.
+Compilation of SQL analysis related projects and challenges where I practice those skills.
 
 ### Built with
 
